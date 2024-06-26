@@ -3,7 +3,6 @@ package com.hypermedia.clinident.model.entities;
 import jakarta.persistence.*;
 import lombok.*;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 @Getter
